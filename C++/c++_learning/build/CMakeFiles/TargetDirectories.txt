@@ -1,0 +1,3 @@
+D:/workspace/code/C++/c++_learning/build/CMakeFiles/test.dir
+D:/workspace/code/C++/c++_learning/build/CMakeFiles/edit_cache.dir
+D:/workspace/code/C++/c++_learning/build/CMakeFiles/rebuild_cache.dir

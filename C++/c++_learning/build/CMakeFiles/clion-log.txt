@@ -1,0 +1,4 @@
+"E:\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2022.1.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\workspace\code\C++\c++_learning -B D:\workspace\code\C++\c++_learning\build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/workspace/code/C++/c++_learning/build
